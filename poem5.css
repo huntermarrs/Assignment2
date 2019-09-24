@@ -1,0 +1,66 @@
+body {
+  margin: 50px;
+  background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+    }
+
+h1 {
+ color: white;
+ font-family: cursive;
+ font-size: 75px;
+ font-style: 400;
+
+}
+h2 {
+color: white;
+font-family: cursive;
+font-size: 40px;
+font-style: 400;
+}
+h3 {
+    color: white;
+    font-family: cursive;
+    font-size: 30px;
+    font-style: 400;
+    width: 1000px;
+    height: 10px;
+    background-color: red;
+    -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 20s; /* Safari 4.0 - 8.0 */
+    animation-name: example;
+    animation-duration: 20s;
+  }
+
+  /* Safari 4.0 - 8.0 */
+  @-webkit-keyframes example {
+    from {background-color: red;}
+    to {background-color: yellow;}
+  }
+
+  /* Standard syntax */
+  @keyframes example {
+    from {background-color: red;}
+    to {background-color: yellow;}
+}
+.questions {
+    width: 320px;
+     padding: 10px;
+     border: 5px solid gray;
+     margin: 0;
+}
+.bodytext {
+
+    padding: 20px 50px 90px 60px;
+    color: white;
+height: 4500px;
+width: 40%;
+background-image: linear-gradient(to left, red,orange,yellow,green,blue,indigo,violet);
+    }
+#end {
+    padding: 1px 10px 50px 30px;
+    height: 10px;
+    width: 40%;
+    border: 5pt solid gray;
+    border-style: dotted;
+
+
+}

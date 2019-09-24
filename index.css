@@ -1,0 +1,29 @@
+body {
+  margin: 50px;
+  background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+    }
+
+    h1 {
+     color: white;
+     font-family: serif;
+     font-size: 75px;
+     font-style: 400;
+ }
+
+ h3 {
+ color: white;
+ font-family: serif;
+ font-size: 40px;
+ font-style: 400;
+ }
+.dropdown {
+    color: white;
+    font-family: serif;
+    font-size: 40px;
+    font-style: 400;
+}
+.dropdown-content {
+    color: black;
+    font-family: serif;
+    font-size: 20px;
+}

@@ -1,0 +1,49 @@
+body {
+    width: 1300px;
+  margin: auto;
+  border: 5px solid red;
+    background-color: #36a4db;
+    background-image: linear-gradient(red, yellow);
+    }
+
+h1 {
+ color: #33ff78;
+ font-family: monospace;
+ font-size: 75px;
+ font-style: 400;
+}
+h2 {
+color: #5cf991;
+font-family: monospace;
+font-size: 40px;
+font-style: 400;
+}
+h3 {
+    color: #33ff78;
+    font-family: monospace;
+    font-size: 30px;
+    font-style: 400;
+}
+.questions {
+    width: 320px;
+     padding: 10px;
+     border: 5px solid gray;
+     margin: 0;
+}
+.bodytext {
+    padding: 20px 50px 90px 60px;
+font-size: 15pt;
+font: italic arial;
+height: 1750px;
+width: 40%;
+background-color: powderblue;
+background-image: linear-gradient(green, blue);
+    }
+#end {
+    padding: 1px 10px 50px 30px;
+    height: 10px;
+    width: 40%;
+    border: 5pt solid gray;
+    border-style: dotted;
+
+}
